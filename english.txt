@@ -27,20 +27,20 @@ first	   primeiro
 get	   pegar
 go	   ir
 have	   ter, possuir
-having	 tinha
-head	      cabeça
-heart	 coração
-here	      aqui
-house	 casa
-how	      como
-if	      se
-know	      saber
-left	      esquerdo
-many	      muitos
-mind	      mente
-more	      mais
-most	      mais(superlativo)
-much	      muito
+having	   tinha
+head	   cabeça
+heart	   coração
+here	   aqui
+house	   casa
+how	   como
+if	   se
+know	   saber
+left	   esquerdo
+many	   muitos
+mind	   mente
+more	   mais
+most	   mais(superlativo)
+much	   muito
 nothing    nada
 now	      agora
 other	 outro, outra
