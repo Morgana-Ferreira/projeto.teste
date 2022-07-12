@@ -4,13 +4,13 @@ also       também
 another    outros
 about      sobre, a ponto de
 any        algum, alguma
-among	 entre
-almost	 quase
-better	 melhor
-being	 sendo
-because	 porque
-before	 antes
-between	 entre
+among	   entre
+almost	   quase
+better	   melhor
+being	   sendo
+because	   porque
+before	   antes
+between	   entre
 body	      corpo
 both	      ambos
 case	      caso
