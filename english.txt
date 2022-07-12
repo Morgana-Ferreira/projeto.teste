@@ -16,17 +16,17 @@ both	   ambos
 case	   caso
 city	   cidade
 country	   pais
-came	      veio
-come	      vindo
-did	      fazer(passado)
-do	      fazer(verbo auxiliar)
-each	      cada um
-every	 cada
-find	      procurar, achado
-first	 primeiro
-get	      pegar
-go	      ir
-have	      ter, possuir
+came	   veio
+come	   vindo
+did	   fazer(passado)
+do	   fazer(verbo auxiliar)
+each	   cada um
+every	   cada
+find	   procurar, achado
+first	   primeiro
+get	   pegar
+go	   ir
+have	   ter, possuir
 having	 tinha
 head	      cabeça
 heart	 coração
