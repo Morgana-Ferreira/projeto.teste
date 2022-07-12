@@ -1,0 +1,62 @@
+     Lista de algumas das 60 palavras mais usadas no inglês:
+
+also             também
+another     outros
+about         sobre, a ponto de
+any              algum, alguma
+among	 entre
+almost	 quase
+better	 melhor
+being	 sendo
+because	 porque
+before	 antes
+between	 entre
+body	 corpo
+both	 ambos
+case	 caso
+city	 cidade
+country	 pais
+came	 veio
+come	 vindo
+did	 fazer
+do	 fazer(verbo auxiliar)
+each	 cada um
+every	 cada
+find	 procurar, achado
+first	 primeiro
+get	 pegar
+go	 ir
+have	 ter, possuir
+having	 tinha
+head	 cabeça
+heart	 coração
+here	 aqui
+house	 casa
+how	 como
+if	 se
+know	 saber
+left	 esquerdo
+many	 muitos
+mind	 mente
+more	 mais
+most	 mais(superlativo)
+much	 muito
+nothing	 nada
+now	 agora
+other	 outro, outra
+others	 outros
+our	 nosso
+out	 fora
+side	 lado
+soon	 breve
+should	 dever(verbo auxiliar)
+under	 sob
+until	 até
+was             estava,era
+when	 quando
+where	 onde
+which	 qual, de qual
+while	 quando
+who	 quem
+without	 sem
+with	 com
