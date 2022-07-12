@@ -42,16 +42,16 @@ more	   mais
 most	   mais(superlativo)
 much	   muito
 nothing    nada
-now	    agora
-other	    outro, outra
-others	    outros
-our	    nosso
-out	    fora
-side	    lado
-soon	    breve
-should	    dever(verbo auxiliar)
-under	    sob
-until	    até
+now	   agora
+other	   outro, outra
+others	   outros
+our	   nosso
+out	   fora
+side	   lado
+soon	   breve
+should	   dever(verbo auxiliar)
+under	   sob
+until	   até
 was       estava,era
 when	   quando
 where	   onde
