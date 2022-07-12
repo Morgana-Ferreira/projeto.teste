@@ -52,7 +52,7 @@ soon	   breve
 should	   dever(verbo auxiliar)
 under	   sob
 until	   até
-was       estava,era
+was        estava,era
 when	   quando
 where	   onde
 which	   qual, de qual
