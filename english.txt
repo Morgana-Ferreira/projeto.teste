@@ -11,11 +11,11 @@ being	   sendo
 because	   porque
 before	   antes
 between	   entre
-body	  corpo
-both	  ambos
-case	  caso
-city	  cidade
-country	 pais
+body	   corpo
+both	   ambos
+case	   caso
+city	   cidade
+country	   pais
 came	      veio
 come	      vindo
 did	      fazer(passado)
